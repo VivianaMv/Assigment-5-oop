@@ -1,0 +1,12 @@
+The frequency of each character is: 
+Character: B, Frequency: 1
+Character: C, Frequency: 2
+Character: D, Frequency: 2
+Character: E, Frequency: 3
+Character: I, Frequency: 3
+Character: J, Frequency: 1
+Character: N, Frequency: 3
+Character: O, Frequency: 5
+Character: R, Frequency: 2
+Character: T, Frequency: 5
+Character: U, Frequency: 1
